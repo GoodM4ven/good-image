@@ -12,6 +12,8 @@ After Alpine.js is loaded, the images created using this package's `<x-good-imag
 
 The package is trying to solve the problems that comes with **ugly and slow** image loading, or the hassle of dealing with responsive images (**uploading and processing**). So using this package, you'd only need to upload the original image, and only one tiny placeholder will be generated for it, which will be used for the Blurhash algorithm.
 
+https://user-images.githubusercontent.com/81492351/179000757-a21320ba-e5cb-4032-aef7-b09165c13035.mp4
+
 
 ## Installation
 
