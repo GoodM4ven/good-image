@@ -214,7 +214,7 @@ Call the `<x-good-image>` anonymous Blade component like this:
 
 ## Development
 
-If you love it, you can throw **p**ull-**r**equests all around here. 😊
+If you love it, spare some **p**ull-**r**equests, you! 😊
 
 - There's an available and automated [CHANGELOG](CHANGELOG.md) of all the updates.
 
