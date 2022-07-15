@@ -206,7 +206,7 @@ Call the `<x-good-image>` anonymous Blade component like this:
   - Well, until this package integrates a mini Alpine.js, and for slow-connection users, you can use [this](https://github.com/GoodM4ven/good-loader) package whilst loading!
 
 - How do I condition doing something when the image has loaded?
-  - Install [this](https://github.com/GoodM4ven/alpinejs-image-watcher) package and utilize its `x-image-watcher` Alpine.js directive to accomplish that. 🙂👍🏻
+  - Install [this](https://github.com/GoodM4ven/image-watcher) package and utilize its `x-image-watcher` Alpine.js directive to accomplish that. 🙂👍🏻
 
 - Well, what about-
   - Dude! It's an open-source package and I'm a bit new to all of this, so a teaching PR is ALL welcome! 🙃
